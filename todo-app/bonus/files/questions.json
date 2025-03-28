@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What are dolphins?",
+        "correct_answer_key": 3,
+        "answers": [ "Amphibians", "Fish", "Mammals", "Birds" ]
+    },
+    {
+        "question": "What occupies most of the Earth's surface?",
+        "correct_answer_key": 2,
+        "answers": [ "Land", "Water" ]
+    }
+]
