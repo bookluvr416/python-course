@@ -1,8 +1,4 @@
-I need oatmeal
-Check laundry
-Testing a todo
-A new todo
-Second
+I need oatmeal two
 Buy Halestorm
-Testing
-New Apple
+Test
+Testing three
